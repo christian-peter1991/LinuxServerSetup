@@ -1,2 +1,3 @@
-# LinuxServerSetup
-Linux Server Setup: A beginners guide
+# Linux Server Setup
+
+## A beginners guide
